@@ -28,4 +28,3 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 * [Resources](resources.md)
 
 
-
