@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+# Goal
+
+Spend at least 1 hour a day, coding and sharing updating the status here. 
 ### Day 0: December 4th 2020
 
 **Today's Progress**: I completed an application to YearOne. The Stack: React + Node/Express + Postgres. It took about 3 days and just finished.
@@ -24,5 +27,15 @@
    
 
 
+# Starting over...
+
+### Day 0: December 13th 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+   
 
    
