@@ -31,11 +31,11 @@ Spend at least 1 hour a day, coding and sharing updating the status here.
 
 ### Day 0: December 13th 2020
 
-**Today's Progress**: 
+**Today's Progress** I have completed two leetcode problems [MoveZeros](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) and [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/). I started reviewing a video and a tutorial on Validation of Sudoku as well. 
 
-**Thoughts:** 
+**Thoughts:** I struggled with Sudoku quite a bit, but after learning the value of a HashSet it makes much more sense!
 
-**Link to work:** 
+**Link to work:** [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)
    
 
    
