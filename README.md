@@ -38,4 +38,11 @@ Spend at least 1 hour a day, coding and sharing updating the status here.
 **Link to work:** [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)
    
 
-   
+ ### Day 1: December 14th 2020
+
+**Today's Progress** I created a line that will follow my cursor and draw it self as it follows. Looking to make this more of a bunch of lines that attack the cursor wherever it goes. 
+
+**Thoughts:** I need to read a heck of a lot more on canvas, it is dense. Also I need to learn more about linear algebra. 
+
+**Link to work:** 
+     
