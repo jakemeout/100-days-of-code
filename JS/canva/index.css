@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+canvas {
+  background-color: #000000;
+  overflow: hidden;
+}
